@@ -39,7 +39,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Barkis Wallet App Download</string>
+				<string>Barkis Wallet</string>
+				<key>subtitle</key>
+				<string>Barkis App</string>
 			</dict>
 		</dict>
 	</array>
