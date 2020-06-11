@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>io.bksnet.wallet</string>
+				<string>io.blockchainnetwork.wallet.bks</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>3.2.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
